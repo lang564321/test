@@ -1,0 +1,10 @@
+a=3
+b=4
+def c():
+
+   c=a+b
+   
+   return c
+if __name__=='__main__'：
+  k=c()
+  print(k)
